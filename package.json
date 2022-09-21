@@ -1,0 +1,11 @@
+{
+  "name": "padua-chennie-node-repo",
+  "version": "1.0.0",
+  "description": "This is a test node project.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chennie Padua",
+  "license": "MIT"
+}
